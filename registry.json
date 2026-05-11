@@ -5,7 +5,7 @@
       "id": "srd-5e",
       "name": "SRD 5.1 — Core Content",
       "description": "Le contenu officiel SRD 5.1 de D&D 5e : monstres, sorts, objets, classes, races et backgrounds. Source : 5etools.",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": "Wizards of the Coast (SRD 5.1, CC-BY-4.0)",
       "tags": [
         "srd",
@@ -14,14 +14,15 @@
         "dnd5e"
       ],
       "type": "bestiary",
-      "size": "2.23 MB",
+      "size": "42.6 MB",
       "entryCount": {
         "monsters": 332,
         "spells": 319,
         "items": 733,
         "classes": 12,
         "races": 9,
-        "backgrounds": 15
+        "backgrounds": 15,
+        "monsterPortraits": 212
       },
       "path": "modules/srd-5e/module.json"
     }
