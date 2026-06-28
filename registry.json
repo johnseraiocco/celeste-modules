@@ -25,6 +25,33 @@
         "monsterPortraits": 212
       },
       "path": "modules/srd-5e/module.json"
+    },
+    {
+      "id": "tyria-tds",
+      "name": "Tyria — Les Terres de Sang",
+      "description": "Monde complet Terres de Sang : 12 domaines, 66 provinces, carte stratégique (positions + adjacences + image), lignées, armées, routes, diplomatie. Template prêt à jouer (saison 1 vierge, sans PJ).",
+      "version": "1.0.0",
+      "author": "John Seraiocco",
+      "tags": [
+        "terres-de-sang",
+        "tds",
+        "monde",
+        "tyria",
+        "campagne"
+      ],
+      "type": "world",
+      "size": "5.7 MB",
+      "entryCount": {
+        "domains": 12,
+        "provinces": 66,
+        "holdings": 124,
+        "worldEntries": 169,
+        "pins": 111,
+        "bloodlines": 11,
+        "armies": 118
+      },
+      "path": "worlds/tyria-tds/tyria-tds-template.zip",
+      "sha256": "7a4bf25e8e3d97290c0f0d3c1b3df714e94d3f8024eeaf210135da70271b235c"
     }
   ]
 }
