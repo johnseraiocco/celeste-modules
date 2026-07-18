@@ -29,8 +29,8 @@
     {
       "id": "tyria-tds",
       "name": "Tyria — Les Terres de Sang",
-      "description": "Monde complet Terres de Sang : 12 domaines, 66 provinces, carte stratégique (positions + adjacences + image), lignées, armées, routes, diplomatie. Template prêt à jouer (saison 1 vierge, sans PJ).",
-      "version": "1.0.0",
+      "description": "Monde complet Terres de Sang : 12 domaines, 66 provinces, 124 holdings, carte stratégique (positions + adjacences + image), lignées, armées, diplomatie et les 7 quêtes TdS (Chute de Xalthar, Couronne Vacante…). Template prêt à jouer (saison 1 vierge, sans PJ).",
+      "version": "1.1.0",
       "author": "John Seraiocco",
       "tags": [
         "terres-de-sang",
@@ -45,13 +45,14 @@
         "domains": 12,
         "provinces": 66,
         "holdings": 124,
-        "worldEntries": 169,
-        "pins": 111,
+        "worldEntries": 153,
+        "pins": 7,
         "bloodlines": 11,
-        "armies": 118
+        "armies": 101,
+        "quests": 7
       },
       "path": "worlds/tyria-tds/tyria-tds-template.zip",
-      "sha256": "7a4bf25e8e3d97290c0f0d3c1b3df714e94d3f8024eeaf210135da70271b235c"
+      "sha256": "2e0161b15e051483f0bfc33d02cf0bc57870240ec0af9777d7a5cf0af529e35c"
     }
   ]
 }
