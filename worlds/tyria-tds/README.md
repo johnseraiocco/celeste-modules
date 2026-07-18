@@ -2,7 +2,7 @@
 
 Monde complet TDS prêt à importer dans Celeste Virtual Dungeon : **12 domaines, 66 provinces,
 124 holdings**, carte stratégique (positions + adjacences + image), **11 lignées de sang,
-101 armées**, 153 entrées de lore, relations diplomatiques et **les 7 quêtes Terres de Sang**
+101 armées**, 159 entrées de lore avec **111 points sur la carte**, relations diplomatiques et **les 7 quêtes Terres de Sang**
 (La Chute de Xalthar, La Couronne Vacante, La Marchande de Sel, L'Éclat de Miroir, Le Graal
 de Lumen Vet, Pacte de Marée-d'Or, Phylactère d'Azurath).
 
